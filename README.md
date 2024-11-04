@@ -1,1 +1,2 @@
-# snapAR
+# Nios_Magicmirror_CamKit
+ 
